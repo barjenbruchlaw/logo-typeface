@@ -1,38 +1,55 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+  @import url("https://fonts.googleapis.com/css2?family=Antonio:wght@100&family=Cairo:wght@600&family=Cormorant+Garamond:wght@600&family=Fira+Sans+Condensed:wght@300&family=Fjalla+One&family=IBM+Plex+Mono:wght@200&family=Josefin+Sans:wght@200&family=Open+Sans:wght@400;700&family=Righteous&family=Roboto+Condensed&family=Roboto:wght@300&family=Titillium+Web:wght@300&display=swap");
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  .description {
+    font-family: sans-serif;
   }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .options {
+    font-size: xx-large;
+    font-variant: small-caps;
   }
-  to {
-    transform: rotate(360deg);
+
+  .option1 {
+    font-family: Antonio;
   }
-}
+
+  .option2 {
+    font-family: Roboto;
+  }
+
+  .option3 {
+    font-family: Roboto Condensed;
+  }
+
+  .option5 {
+    font-family: Cormorant Garamond;
+  }
+
+  .option6 {
+    font-family: Titillium Web;
+  }
+
+  .option7 {
+    font-family: Josefin Sans;
+  }
+
+  .option8 {
+    font-family: Cairo;
+  }
+
+  .option9 {
+    font-family: Fira Sans Condensed;
+  }
+
+  .option10 {
+    font-family: Fjalla One;
+  }
+
+  .option11 {
+    font-family: IBM Plex Mono;
+  }
+
+  .option12 {
+    font-family: Righteous;
+  }
