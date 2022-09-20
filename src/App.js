@@ -16,18 +16,10 @@ function App() {
   </div>
   <hr />
   <div className="options">
-    <div className="option1"><p>1. Bassin, Young & Barjenbruch, LLC</p></div>
-    <div className="option2"><p>2. Bassin, Young & Barjenbruch, LLC</p></div>
-    <div className="option3"><p>3. Bassin, Young & Barjenbruch, LLC</p></div>
-    <div className="option4"><p>4. Bassin, Young & Barjenbruch, LLC</p></div>
-    <div className="option5"><p>5. Bassin, Young & Barjenbruch, LLC</p></div>
-    <div className="option6"><p>6. Bassin, Young & Barjenbruch, LLC</p></div>
-    <div className="option7"><p>7. Bassin, Young & Barjenbruch, LLC</p></div>
-    <div className="option8"><p>8. Bassin, Young & Barjenbruch, LLC</p></div>
-    <div className="option9"><p>9. Bassin, Young & Barjenbruch, LLC</p></div>
-    <div className="option10"><p>10. Bassin, Young & Barjenbruch, LLC</p></div>
-    <div className="option11"><p>11. Bassin, Young & Barjenbruch, LLC</p></div>
-    <div className="option12"><p>12. Bassin, Young & Barjenbruch, LLC</p></div>
+    <div className="option9"><p>1. Bassin, Young & Barjenbruch, LLC</p></div>
+    <div className="option1"><p>2. Bassin, Young & Barjenbruch, LLC</p></div>
+    <div className="option5"><p>3. Bassin, Young & Barjenbruch, LLC</p></div>
+    <div className="option3"><p>4. Bassin, Young & Barjenbruch, LLC</p></div>
   </div>
     </div>
   );
